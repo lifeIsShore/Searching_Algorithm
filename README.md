@@ -1,5 +1,5 @@
 # Searching_Algorithm
-Searching_Algorithm that I made it more efficient in terms of speed.
+Searching_Algorithm for max value in an array
 <br>
 <br>
 <br>
